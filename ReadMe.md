@@ -27,8 +27,9 @@ We have not provided breakpoint specific comps. You will need to employ some cre
 ## The Static Comp:
 ![Static Comp](http://frontend.turing.io/assets/images/static-comp-challenge-3.jpg)
 ## My Version:
-<img width="1248" alt="screen shot 2018-10-17 at 11 34 10 am" src="https://user-images.githubusercontent.com/37079656/47105356-eba39780-d200-11e8-9db6-e96ecc2a6b95.png">
+<img width="1437" alt="screen shot 2018-10-30 at 8 35 18 pm" src="https://user-images.githubusercontent.com/37079656/47762771-9eeda100-dc83-11e8-8772-7fc7e3501362.png">
 ## Mobile View 1:
-<img width="577" alt="screen shot 2018-10-17 at 11 37 44 am" src="https://user-images.githubusercontent.com/37079656/47105426-2279ad80-d201-11e8-84b9-5fa0ae66ea6d.png">
+<img width="318" alt="screen shot 2018-10-30 at 8 40 07 pm" src="https://user-images.githubusercontent.com/37079656/47762887-03a8fb80-dc84-11e8-9708-33e090ab4e01.png">
 ## Mobile View 2:
-<img width="411" alt="screen shot 2018-10-17 at 11 39 36 am" src="https://user-images.githubusercontent.com/37079656/47105497-59e85a00-d201-11e8-9966-3cee7094853e.png">
+<img width="318" alt="screen shot 2018-10-30 at 8 42 35 pm" src="https://user-images.githubusercontent.com/37079656/47763007-67cbbf80-dc84-11e8-9bdf-506ce62df29e.png">
+
